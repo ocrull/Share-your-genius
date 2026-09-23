@@ -1,0 +1,27 @@
+  nav {
+        background-color: rgb(233, 226, 252);
+        }
+        nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        }
+        nav li {
+        margin-right: 20px;
+        }
+        nav a {
+        color: black;
+        text-decoration: none;
+        padding: 14px 20px;
+        display: block;
+        }
+        
+        nav a:hover {
+        background-color: peachpuff;
+        }
+        
+        nav a.active {
+        background-color: #d6b2ff;  
+        font-weight: bold;         
+        }
