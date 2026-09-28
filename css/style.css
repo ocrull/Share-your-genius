@@ -1,6 +1,10 @@
   .orange-text {
     color: rgb(247, 189, 81);
   }
+  
+  .center-text {
+    text-align: center;
+  }
 
   nav {
         background-color: rgb(233, 226, 252);
